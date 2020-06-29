@@ -1,0 +1,11 @@
+{
+    "address": "384 11th St.",
+    "label": "Mayor DeBlasio's property",
+    "borough": 3,
+    "zip_code": 11215,
+    "bbl": "3010230033",
+    "market_val": 1758000,
+    "assessed_val": 21228,
+    "tax_bill": 4493.33,
+    "effective_tax_rate": 0.0026    
+}
