@@ -12,7 +12,7 @@
     "@vx/scale": "0.0.197",
     "@vx/shape": "0.0.197",
     "chart.js": "^2.9.3",
-    "fullpage.js": "^3.0.8",
+    "fullpage.js": "^4.0.5",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-chartjs-2": "^2.9.0",
